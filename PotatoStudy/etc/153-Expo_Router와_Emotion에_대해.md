@@ -1,3 +1,4 @@
+![Uploaded Image](https://gamzatech-bucket.s3.ap-northeast-2.amazonaws.com/post-images/153/f1b156c7-2fd0-4d0f-9491-68affbab9374_image.png)
 ## Expo Router란?
 Expo Router는 React Native 및 웹 애플리케이션을 위한 파일 기반 라우터이며 앱 화면 간 탐색을 관리하여 사용자가 여러 플랫폼에서 동일한 구성 요소를 사용하여 앱 UI의 여러 부분 사이를 원활하게 이동할 수 있도록 지원한다. 
 
