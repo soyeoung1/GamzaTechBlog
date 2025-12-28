@@ -1,4 +1,4 @@
-![](https://velog.velcdn.com/images/soyeoung1/post/a81cd344-fbdf-4d70-9e90-3d6550123ae6/image.png)
+![Uploaded Image](https://gamzatech-bucket.s3.ap-northeast-2.amazonaws.com/post-images/158/1374f8c3-231c-41e4-a05d-915dd7dda215_image.png)
 
 # React Query란?
 React Query는 리액트 애플리케이션에서 **서버 상태**를 효율적으로 관리하기 위한 라이브러리이다.
